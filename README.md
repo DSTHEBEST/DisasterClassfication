@@ -62,7 +62,7 @@ The project includes a **Streamlit** web app that allows users to:
 
 ---
 
-## 🛠Setup and Installation
+## Setup and Installation
 
 ### Prerequisites
 
@@ -86,7 +86,7 @@ cd natural-disaster-classification
 Make sure to create a virtual environment if desired:
 
 ```bash
-# Optional: Create and activate virtual environment
+# Optional
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
