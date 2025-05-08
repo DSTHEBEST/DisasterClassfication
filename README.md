@@ -1,1 +1,1 @@
-# DisasterClassfication
+# DisasterClassification
